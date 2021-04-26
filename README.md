@@ -1,4 +1,4 @@
-#mhw3
+# mhw3
 
 In questo nuovo MHW3 ho incluso nel progetto del mio sito 'idealBank' una nuova sezione "SERVIZI"; in essa ho inserito le due API scelte.
 
